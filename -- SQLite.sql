@@ -1,0 +1,2 @@
+-- SQLite
+ALTER TABLE inventory ADD COLUMN quantity INTEGER DEFAULT 1;
